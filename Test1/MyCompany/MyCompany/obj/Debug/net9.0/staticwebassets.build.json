@@ -1,12 +1,20 @@
 {
   "Version": 1,
-  "Hash": "26HbofcLcBFCvGaGdSqkMjn17S0oUiTQvmsqhKcjRgw=",
+  "Hash": "XneYx0bu6bev9baVc8xatX/pVhi8nfssDZq5ZQOsBXA=",
   "Source": "MyCompany",
   "BasePath": "_content/MyCompany",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyCompany\\wwwroot",
+      "Source": "MyCompany",
+      "ContentRoot": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\wwwroot\\",
+      "BasePath": "_content/MyCompany",
+      "Pattern": "**"
+    }
+  ],
   "Assets": [],
   "Endpoints": []
 }

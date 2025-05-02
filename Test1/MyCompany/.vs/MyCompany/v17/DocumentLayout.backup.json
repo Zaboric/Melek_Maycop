@@ -9,6 +9,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|d:\\programming\\github\\melek_maycop\\test1\\mycompany\\mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|d:\\programming\\github\\melek_maycop\\test1\\mycompany\\mycompany\\views\\shared\\_metapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\shared\\_metapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|d:\\programming\\github\\melek_maycop\\test1\\mycompany\\mycompany\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|d:\\programming\\github\\melek_maycop\\test1\\mycompany\\mycompany\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|d:\\programming\\github\\melek_maycop\\test1\\mycompany\\mycompany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB8E238-AE6A-4E9B-B52F-67A7116A9943}|MyCompany\\MyCompany.csproj|solutionrelative:mycompany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +44,9 @@
               "RelativeDocumentMoniker": "MyCompany\\Infrastructure\\AppConfig.cs",
               "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Infrastructure\\AppConfig.cs",
               "RelativeToolTip": "MyCompany\\Infrastructure\\AppConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T17:53:23.7Z",
+              "WhenOpened": "2025-05-02T15:31:28.412Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +57,65 @@
               "RelativeDocumentMoniker": "MyCompany\\appsettings.json",
               "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\appsettings.json",
               "RelativeToolTip": "MyCompany\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T17:43:20.601Z",
+              "WhenOpened": "2025-05-02T15:25:21.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:39:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T14:33:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MetaPartial.cshtml",
+              "DocumentMoniker": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\Shared\\_MetaPartial.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\Shared\\_MetaPartial.cshtml",
+              "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\Shared\\_MetaPartial.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\Shared\\_MetaPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T13:44:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyCompany\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\GitHub\\Melek_Maycop\\Test1\\MyCompany\\MyCompany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyCompany\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:22:37.697Z",
               "EditorCaption": ""
             }
           ]
